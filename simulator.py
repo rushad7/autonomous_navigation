@@ -7,7 +7,6 @@ Created on Thu May  7 19:10:55 2020
 
 import turtle as t
 import numpy as np
-import matplotlib.pyplot as plt
 
 #define the constants
 freq = 2.4e9 #in Hz
